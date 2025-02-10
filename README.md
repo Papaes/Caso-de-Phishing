@@ -63,6 +63,46 @@ Com desconto: R$117,14
 
 ⚠️ O layout imita comunicações oficiais do Governo Brasileiro, mas o domínio não é legítimo.
 
+# Validando em fontes publicas é Possível analisar uma Participação do mesmo IP em Ataque de Amplificação DDoS via DNS
+
+🔍 Metodologia
+
+A investigação foi conduzida utilizando bancos de dados de abuso públicos, onde verificamos:
+
+Relatórios de atividades suspeitas associadas ao IP.
+
+Classificações de abuso atribuídas pela comunidade.
+
+Possível participação em ataques distribuídos de negação de serviço (DDoS).
+
+Os relatórios indicaram que o IP analisado foi marcado como possivelmente envolvido em ataques de amplificação DNS, sugerindo que pode estar vulnerável ou comprometido.
+
+📊 Resultados
+
+Os dados obtidos apontam:
+
+O IP foi reportado por enviar um alto volume de solicitações DNS.
+
+Categorias atribuídas:
+
+DNS envenenamento
+
+Ataque DDoS
+
+Phishing 
+
+Força bruta
+
+![image](https://github.com/user-attachments/assets/99168da2-b35a-41bd-aa55-afd39d423c24)
+
+# Sites utilizados para verificação de IP: 
+
+https://talosintelligence.com/
+
+https://www.abuseipdb.com/
+
+https://www.virustotal.com/gui/home/search
+
 # 📌 Conclusões
 
 💡 Índices claros de Phishing:
