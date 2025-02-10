@@ -129,5 +129,4 @@ https://www.virustotal.com/gui/home/search
 
 📌 Autor: Mateus Costa Papaes
 
-
-# ⚠️ Este documento foi elaborado para fins acadêmicos e educativos, evitando a exposição direta de IPs específicos. Caso deseje discutir detalhes técnicos ou precise de assistência na investigação, entre em contato. 🚀
+⚠️ Este documento foi elaborado para fins acadêmicos e educativos, evitando a exposição direta de IPs específicos. Caso deseje discutir detalhes técnicos ou precise de assistência na investigação, entre em contato. 🚀
